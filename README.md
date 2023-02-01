@@ -1,6 +1,6 @@
 ### X-plore Donation Unlocker - Rooted / Un-rooted
 
-* Tested: v4.30.06
+* Tested: v4.30.18
 * Compatibility: Rooted | Un-rooted
 
 ---
@@ -12,6 +12,10 @@
 ---
 
 #### Changelog
+
+**v1.1**
+
+* Update v4.30.18
 
 **v1.0**
 
